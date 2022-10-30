@@ -44,19 +44,19 @@ h2 {
     margin-top: 35px;
 }
 
-.task1 {
+.card1 {
     background-image: url("https://images.pexels.com/photos/2008142/pexels-photo-2008142.jpeg?cs=srgb&dl=pexels-ylanite-koppens-2008142.jpg&fm=jpg&_gl=1*ypa2ct*_ga*NTA1MzY1ODM0LjE2NjQzNTc2MjY.*_ga_8JE65Q40S6*MTY2NzEyNzU5MC4xOC4xLjE2NjcxMjk3NDYuMC4wLjA.");
 }
 
-.task2 {
+.card2 {
     background-image: url("https://images.pexels.com/photos/2072153/pexels-photo-2072153.jpeg?cs=srgb&dl=pexels-george-dolgikh-2072153.jpg&fm=jpg&_gl=1*178h7vg*_ga*NTA1MzY1ODM0LjE2NjQzNTc2MjY.*_ga_8JE65Q40S6*MTY2NzEyNzU5MC4xOC4xLjE2NjcxMjk5NTAuMC4wLjA.");
 }
 
-.task3 {
+.card3 {
     background-image: url("https://images.pexels.com/photos/4203098/pexels-photo-4203098.jpeg?cs=srgb&dl=pexels-karolina-grabowska-4203098.jpg&fm=jpg&_gl=1*efz1wv*_ga*NTA1MzY1ODM0LjE2NjQzNTc2MjY.*_ga_8JE65Q40S6*MTY2NzEyNzU5MC4xOC4xLjE2NjcxMjk5OTYuMC4wLjA.");
 }
 
-.task4 {
+.card4 {
     background-image: url("https://images.pexels.com/photos/4041277/pexels-photo-4041277.jpeg?cs=srgb&dl=pexels-karolina-grabowska-4041277.jpg&fm=jpg&_gl=1*dd33bz*_ga*NTA1MzY1ODM0LjE2NjQzNTc2MjY.*_ga_8JE65Q40S6*MTY2NzEyNzU5MC4xOC4xLjE2NjcxMzAxMjAuMC4wLjA.");
     position: sticky;
 } 
